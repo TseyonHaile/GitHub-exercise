@@ -1,0 +1,4 @@
+def say_hello():
+    print("Hello, this is a GitHub exercise!")
+
+say_hello()
